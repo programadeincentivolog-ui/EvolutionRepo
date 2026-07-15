@@ -2,6 +2,6 @@
 
 FROM evoapicloud/evolution-api:v2.1.1
 
-ENV DATABASE_PROVIDER=postgresql
+#ENV DATABASE_PROVIDER=postgresql
 
-EXPOSE 8080
+#EXPOSE 8080
